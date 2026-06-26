@@ -1,6 +1,34 @@
-### Hi there 👋
-
 🌱 I’m currently learning ...
+
+### Skills
+- C++
+- Python
+- Typescript
+  - Next.js
+  - React
+- 組み込み/電子工作
+- ROS 2
+- vim
+
+### Interests
+- Robotics
+  - 行動計画
+  - 制御工学
+  - 強化学習
+- プログラミング
+  - Rust
+  - Haskel(圏論)
+
+###  Activities
+- 2026/01: **患者の見守り支援システムの開発 － 距離とスケルトン情報に基づく認識精度向上 －** 第31回高専シンポジウム in Amagasaki
+- 2025/01: **災害情報の迅速な収集と発信のためのアプリケーション開発** 第30回高専シンポジウム in Okayama
+- 2024/11: 高専ロボコン ロボたちの帰還
+- 2024/08: **TeX 形式で解答する数学 e-learning システム** RIMS 共同研究「数学ソフトウェアとその効果的教育利用に関する研究」
+- 2024/03: CoRE-1: 2024（CoRE1部リーグ2024） 自動機部門
+- 2024/02: **高専間防災ネットワークを諦めない！～沼津高専×産学官民連携による防災減災用教材を全国へ～** 第２回高専防災減災コンテスト 防災科研賞
+- 2023/11: 高専ロボコン もぎもぎ！フルーツGOラウンド
+- 2023/10: **高専間防災ネットワークを諦めない！〜沼津高専×産学官民連携による防災減災用教材を全国へ** 富士・箱根・伊豆 国際学会 事業 東アジア文化都市 2023 静岡県　東アジアDNAの源流と、文化・芸術の多様な未来
+- 2022/11: 高専ロボコン ミラクル☆フライ〜空へ舞いあがれ！〜
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pusin819&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pusin819&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
