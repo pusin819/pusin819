@@ -29,6 +29,3 @@
 - 2023/11: 高専ロボコン もぎもぎ！フルーツGOラウンド
 - 2023/10: **高専間防災ネットワークを諦めない！〜沼津高専×産学官民連携による防災減災用教材を全国へ** 富士・箱根・伊豆 国際学会 事業 東アジア文化都市 2023 静岡県　東アジアDNAの源流と、文化・芸術の多様な未来
 - 2022/11: 高専ロボコン ミラクル☆フライ〜空へ舞いあがれ！〜
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pusin819&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pusin819&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
